@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078645864372",
+    "project_id": "dontsaytheword-c2fae",
+    "storage_bucket": "dontsaytheword-c2fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078645864372:android:7d443b774ccc0ab25c24e1",
+        "android_client_info": {
+          "package_name": "de.meister.speechrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078645864372-0n150h4ubqqeg79gjcn0v2p63sbjbqvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIt0jqU7H-dUZed6OeExF0D3eU5GSweus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078645864372-0n150h4ubqqeg79gjcn0v2p63sbjbqvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
